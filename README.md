@@ -9,4 +9,5 @@
 
 My eksperiments project :
 1. Analyst data 1: <a href="https://belajar-python-yt.streamlit.app">Analyst dummy data</a>
-2. Web with Django : <a href="https://tayeonssd.pythonanywhere.com"> My web</a>
+2. Analyst data Superstore(Myskill.id) : <a href="https://myskill-id-superstore.streamlit.app> SuperStore</a>
+3. Web with Django : <a href="https://tayeonssd.pythonanywhere.com"> My web</a>
