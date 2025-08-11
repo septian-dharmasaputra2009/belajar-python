@@ -67,7 +67,7 @@ st.plotly_chart(fig, use_container_width=True)
 
 # Preview Data
 st.header("🔍 Data Tersaring (Preview)")
-st.dataframe(df.head(20))
+st.dataframe(df.head(50))
 
 
 #kredits
